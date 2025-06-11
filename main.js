@@ -1,5 +1,5 @@
  // Initialize wish count from memory or default to 3
-        let wishCount = 2;
+        let wishCount = 4;
 
         // Function to update wish count display
         function updateWishCount() {
