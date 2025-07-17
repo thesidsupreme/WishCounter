@@ -6,7 +6,9 @@
 
         body {
             font-family: 'Poppins', sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #e91e63, #f8bbd9);
+            /* background:linear-gradient(135deg, #fbc2eb, #a6c1ee); */
+
             min-height: 100vh;
             display: flex;
             align-items: center;
@@ -15,7 +17,7 @@
         }
 
         .card-container {
-            background: #fcfcfcf3;
+            background: #ffffff;
             border-radius: 20px;
             padding: 60px 40px;
             max-width: 500px;
@@ -62,7 +64,7 @@
             font-family: 'Poppins', sans-serif;
             font-size: 14px;
             font-weight: 400;
-            color: #2c5f5d;
+             color: #333333;
             letter-spacing: 3px;
             margin-bottom: 10px;
         }
@@ -71,7 +73,7 @@
             font-family: 'Playfair Display', serif;
             font-size: 72px;
             font-weight: 400;
-            color: #2c5f5d;
+            color: #333333;
             margin-bottom: 20px;
             line-height: 0.9;
         }
@@ -80,7 +82,7 @@
             font-family: 'Poppins', sans-serif;
             font-size: 12px;
             font-weight: 300;
-            color: #2c5f5d;
+            color: #333333;
             letter-spacing: 2px;
             margin-bottom: 40px;
         }
@@ -89,7 +91,7 @@
             font-family: 'Playfair Display', serif;
             font-size: 28px;
             font-weight: 600;
-            color: #2c5f5d;
+            color: #333333;
             margin-bottom: 30px;
         }
 
@@ -97,7 +99,7 @@
             font-family: 'Poppins', sans-serif;
             font-size: 18px;
             font-weight: 300;
-            color: #2c5f5d;
+            color: ##333333;
             line-height: 1.6;
             margin-bottom: 20px;
             font-style: italic;
@@ -107,7 +109,7 @@
             font-family: 'Poppins', sans-serif;
             font-size: 16px;
             font-weight: 400;
-            color: #2c5f5d;
+            color: #333333;
             line-height: 1.5;
             margin-bottom: 30px;
         }
@@ -116,7 +118,7 @@
             font-family: 'Playfair Display', serif;
             font-size: 24px;
             font-style: italic;
-            color: #2c5f5d;
+            color: #e91e63;
             margin-bottom: 30px;
             opacity: 0.8;
         }
